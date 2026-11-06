@@ -53,6 +53,7 @@ window-width = 108
 window-height = 32
 macos-option-as-alt = true
 theme = Catppuccin Latte
+unfocused-split-opacity = 1
 
 cursor-style = block
 shell-integration-features = no-cursor
